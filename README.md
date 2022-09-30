@@ -12,18 +12,19 @@
 
 ##### Atualmente estou estudando BackEnd e buscando conhecimento na area de Desenvolvimento.
 
-##
 #
-
 
 <div>
  <a href="https://www.linkedin.com/in/caue-silva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:caue.ti@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ <a href = "mailto:caue.ti@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div>
+
+#
 
 ![Caue GitHub stats](https://github-readme-stats.vercel.app/api?username=cauueh&show_icons=true&theme=dark))]
 
-## Tecnologia de conhecimento
+## 
+### Tecnologia de conhecimento
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
