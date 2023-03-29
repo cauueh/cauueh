@@ -10,7 +10,7 @@
 
 ##### Area de atuação: Infraestrutura de TI a mais de 6 anos.
 
-##### Atualmente estou estudando BackEnd e buscando conhecimento na area de Desenvolvimento.
+##### 
 
 #
 
