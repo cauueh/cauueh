@@ -4,13 +4,17 @@
 #
 ##### Tenho 32 anos
 
-##### Formação: Analise e Desenvolvimento de Sistemas 🧑‍🎓
+Profissional de TI com ampla experiência em Infraestrutura, Cloud, Virtualização e Monitoração, atuando no gerenciamento de ambientes críticos com foco em alta disponibilidade e segurança.
 
-##### Pós Graduação: Segurança da Informação e Gestão de TI
+Administração de servidores Windows Server e Linux
+Gestão de ambientes virtualizados com VMware
+Monitoramento proativo com Zabbix e PRTG
+Experiência em AWS (Route 53, IAM, S3) e serviços em nuvem (AWS Cloud Practitioner)
+Administração de Active Directory, GPO e redes corporativas
 
-##### Area de atuação: Infraestrutura de TI a mais de 6 anos.
+Atualmente cursando MBA em Cloud Computing e DevOps, aprofundando conhecimentos em Infraestrutura como Código (IaC), Contêineres e FinOps.
 
-##### Atualmente estudando tecnologias voltada para Computação em NUVEM
+Meu objetivo é contribuir em projetos de Infraestrutura, Cloud, SRE ou DevOps, implementando soluções eficientes, seguras e escaláveis.
 
 #
 
